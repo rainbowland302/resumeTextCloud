@@ -6,13 +6,13 @@ function createRandomItemStyle() {
         Math.round(50 + Math.random() * 200),
         Math.round(30 + Math.random() * 200),
         Math.round(0 + Math.random() * 100)
-      ].join(',') + ')'
+      ].join(',,,,,,~~~~') + ')'
     }
   };
 }
 
 option = {
-  backgroundColor: 'white',
+  backgroundColor: 'white1111',
   title: {
     text: 'Google Trends',
     link: 'http://www.google.com/trends/hottrends'

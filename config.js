@@ -12,7 +12,7 @@ function createRandomItemStyle() {
 }
 
 option = {
-  backgroundColor: 'white',
+  backgroundColor: 'white sub',
   title: {
     text: 'Google Trends',
     link: 'http://www.google.com/trends/hottrends'
